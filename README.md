@@ -6,3 +6,6 @@ The files Function-1-parallel.ipynb, ..., Function-5-parallel.ipynb were used to
 For each .ipynb file, the user needs to run all the cells sequentially to get the results.
 
 We have implemented the DPD-loss function as a Python object/class and named it either "CustomLoss" or "DPDLoss" in different files. The argument "alpha" of this Python object corresponds to the tuning parameter $\beta$ of the $\beta$-divergence (DPD measure).
+
+## Test
+aa
