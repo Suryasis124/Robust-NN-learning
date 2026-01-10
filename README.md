@@ -4,5 +4,5 @@ The folders contain the reproducible codes for the following research papers on 
   - Paper 2: rSDNet: Unified Neural Network Learning under Label Noise and Adversarial Attack
 
 ___
-Users
+We also provide generic codes to run all our robust learning methodologies. Users can use the codes to reproduce the results of the papers, as well as to apply the proposed learning algorithms to a new dataset.
 
