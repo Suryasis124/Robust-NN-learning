@@ -1,8 +1,10 @@
 # Robust NN learning
-The folders contain the reproducible codes for the following research papers on robust learning algorithms of neural networks.
-  - Paper 1: Provably robust learning of regression neural networks using $\beta$-divergence
-  - Paper 2: rSDNet: Unified Neural Network Learning under Label Noise and Adversarial Attack
+This repository contains python implementations of robust learning algorithm for different neural network models, as proposed/studied in the following papers:
+  - Paper 1: Provably robust learning of regression neural networks using $\beta$-divergence. Jana and Ghosh (2026). ArXiv pre-print, 
+  - Paper 2: rSDNet: Unified Neural Network Learning under Label Noise and Adversarial Attack. Jana and Ghosh (2026). ArXiv pre-print, 
 
 ___
-We also provide generic codes to run all our robust learning methodologies. Users can use the codes to reproduce the results of the papers, as well as to apply the proposed learning algorithms to a new dataset.
+Each folder contains well-documented codes to reproduce the results of each papers (upto stochastic variations).
+
+We also provide generic codes to run all robust learning methodologies that one can use to robustly train NN models to new datasets.
 
