@@ -1,6 +1,15 @@
-The files contain the Python code for the simulation experiments and the real data applications discussed in the paper "Provably robust learning of regression neural networks using $\beta$-divergence". The DPD-loss function was implemented as a Python object/class and named as either "CustomLoss" or "DPDLoss" in different files, which can be used as a loss function input to the .fit method, applied to a Keras model object in a TensorFlow environment. The argument "alpha" of this Python object corresponds to the tuning parameter $\beta$ of the $\beta$-divergence (DPD measure). We used Python 3.10.12 version on the Ubuntu OS.
+This folder contains Python codes for reproducing all simulation experiments and real data applications discussed in the paper: 
+ - Provably robust learning of regression neural networks using $\beta$-divergence.
 
-The files Function-1-parallel.ipynb, ..., Function-5-parallel.ipynb were used to generate the simulation experiment results in Tables 3-7 of the paper. The files ASN-CV.ipynb, BHP-CV.ipynb, CCS-CV.ipynb, respectively, were used to generate the 10-Fold CV TMSE results of the ASN, BHP, and CCS data, as given in Table 8.
+The DPD-loss function is implemented as a Python object/class and named as either "CustomLoss" or "DPDLoss" in different files, which can be used as a loss function input to the .fit method, applied to a Keras model object in a TensorFlow environment. 
+The argument "alpha" of this Python object corresponds to the tuning parameter $\beta$ of the $\beta$-divergence (DPD measure). 
 
-We further provided a file -- User instruction to apply a robust training method.ipynb, which gives clear instructions about how to apply the existing as well as the proposed method to a new dataset. 
+----
+## Function lists:
+- Function-i-parallel.ipynb: Produces simulation results of Tables (2+i) of the paper, for i=1, 2, 3, 4,5.
+- ASN-CV.ipynb, BHP-CV.ipynb, CCS-CV.ipynb: Produces the 10-Fold CV TMSE results of the ASN, BHP, and CCS data, respectively as given in Table 8 of the paper.
+- ASN.csv, BHP.csv, CCS.csv: Contains the ASN, BHP and CCS datasets, respectively, after required scaling. 
 
+
+---
+All codes are prepared and tested using Python 3.10.12 version on the Ubuntu OS.
