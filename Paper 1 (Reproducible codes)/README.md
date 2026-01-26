@@ -6,9 +6,11 @@ The argument "alpha" of this Python object corresponds to the tuning parameter $
 
 ----
 ## Function lists:
-- Function-i-parallel.ipynb: Produces simulation results of Tables (2+i) of the paper, for i=1, 2, 3, 4,5.
-- ASN-CV.ipynb, BHP-CV.ipynb, CCS-CV.ipynb: Produces the 10-Fold CV TMSE results of the ASN, BHP, and CCS data, respectively as given in Table 8 of the paper.
-- ASN.csv, BHP.csv, CCS.csv: Contains the ASN, BHP and CCS datasets, respectively, after required scaling. 
+- Function-i-parallel.ipynb: Produces simulation results of Tables (2+i) of the paper, for i=1, 2, 3, 4, 5.
+- ASN-CV.ipynb, BHP-CV.ipynb, CCS-CV.ipynb: Produces the 10-Fold CV TMSE results of the ASN, BHP, and CCS data, respectively, as given in Table 8 of the paper.
+- ASN.csv, BHP.csv, CCS.csv: Contains the ASN, BHP, and CCS datasets, respectively, after required scaling.
+- IF-NN-sigmoid.ipynb: Produces the influence function plots for the NN architecture with sigmoid activation function.
+- IF-NN-relu.ipynb: Produces the influence function plots for the NN architecture with ReLU activation function.
 
 
 ---
