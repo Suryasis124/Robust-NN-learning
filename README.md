@@ -1,6 +1,6 @@
 # Robust NN learning
 This repository contains python implementations of robust learning algorithm for different neural network models, as proposed/studied in the following papers:
-  - Paper 1: Provably robust learning of regression neural networks using $\beta$-divergence. Jana and Ghosh (2026). ArXiv pre-print, 
+  - Paper 1: Provably robust learning of regression neural networks using $\beta$-divergence. Ghosh and Jana (2026). ArXiv pre-print, 
   - Paper 2: rSDNet: Unified Neural Network Learning under Label Noise and Adversarial Attack. Jana and Ghosh (2026). ArXiv pre-print, 
 
 ___
