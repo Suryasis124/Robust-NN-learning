@@ -6,7 +6,7 @@ The argument "alpha" of this Python object corresponds to the tuning parameter $
 
 ----
 ## Function lists:
-- Function-i-parallel.ipynb: Produces simulation results of Tables (2+i) of the paper, for i=1, 2, 3, 4, 5.
+- Function-i-parallel.ipynb: Produces simulation results of Tables (2+i) of the paper, for i=1, 2, 3, 4, 5, 6, 7.
 - ASN-CV.ipynb, BHP-CV.ipynb, CCS-CV.ipynb: Produce the 10-Fold CV TMSE results of the ASN, BHP, and CCS data, respectively, as given in Table 8 of the paper.
 - ASN.csv, BHP.csv, CCS.csv: Contain the ASN, BHP, and CCS datasets, respectively, after required scaling.
 - ASN-diagnostics.ipynb, BHP-diagnostics.ipynb, CCS-diagnostics.ipynb: Produce the scatterplots and histograms of the residuals for ASN, BHP, and CCS datasets, respectively.
