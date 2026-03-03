@@ -2,7 +2,7 @@ This folder contains Python codes for reproducing all simulation experiments and
  - Provably robust learning of regression neural networks using $\beta$-divergence.
 
 The DPD-loss function is implemented as a Python object/class and named as either "CustomLoss" or "DPDLoss" in different files, which can be used as a loss function input to the .fit method, applied to a Keras model object in a TensorFlow environment. 
-The argument "alpha" of this Python object corresponds to the tuning parameter $\beta$ of the $\beta$-divergence (DPD measure). 
+The argument "beta" of this Python object corresponds to the tuning parameter $\beta$ of the $\beta$-divergence (DPD measure). 
 
 ----
 ## Function lists:
