@@ -6,5 +6,7 @@ This repository contains python implementations of robust learning algorithm for
 ___
 Each folder contains well-documented codes to reproduce the results of each papers (upto stochastic variations).
 
-We also provide generic codes to run all robust learning methodologies that one can use to robustly train NN models to new datasets.
+We also provide generic codes to run all robust learning methodologies that one can use to robustly train NN models to new datasets. All these codes are available in 
+  - rRNet.ipynb: Codes for robust learning of regression neural networks
+  - rSDNet.ipynb: Codes for robust learning of classification neural networks
 
