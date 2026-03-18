@@ -10,3 +10,10 @@ We also provide generic codes to run all robust learning methodologies that one 
   - rRNet.ipynb: for regression neural networks (Paper 1)
   - rSDNet.ipynb: for classification neural networks (Paper 2)
 
+
+___
+# Authors:  
+- Mr. Suryasis Jana (suryasisjana1999@gmail.com)
+- Dr. Abhik Ghosh (abhik.ghosh.stat@gmail.com)
+
+We wellcome your feedbacks and suggestions.
