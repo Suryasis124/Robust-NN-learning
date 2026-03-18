@@ -7,6 +7,6 @@ ___
 Each folder contains well-documented codes to reproduce the results of each papers (upto stochastic variations).
 
 We also provide generic codes to run all robust learning methodologies that one can use to robustly train NN models to new datasets. All these codes are available in 
-  - rRNet.ipynb: Codes for robust learning of regression neural networks
-  - rSDNet.ipynb: Codes for robust learning of classification neural networks
+  - rRNet.ipynb: for regression neural networks (Paper 1)
+  - rSDNet.ipynb: for classification neural networks (Paper 2)
 
