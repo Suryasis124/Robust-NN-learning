@@ -12,7 +12,7 @@ We also provide generic codes to run all robust learning methodologies that one 
 
 
 ___
-# Authors:  
+## Authors:  
 - Mr. Suryasis Jana (suryasisjana1999@gmail.com)
 - Dr. Abhik Ghosh (abhik.ghosh.stat@gmail.com)
 
